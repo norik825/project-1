@@ -1,0 +1,30 @@
+/* Using a named color */
+body {
+  background-color: lightblue;
+}
+
+/* Using a hex code */
+div {
+  background-color: #f0f0f0;
+}
+
+/* Using RGB */
+p {
+  background-color: rgb(255, 0, 0); /* Red */
+}
+
+/* Using RGBA */
+header {
+  background-color: rgba(0, 255, 0, 0.5); /* Semi-transparent green */
+}
+
+/* Using HSL */
+footer {
+  background-color: hsl(240, 100%, 50%); /* Blue */
+}
+
+/* Using HSLA */
+section {
+  background-color: hsla(120, 100%, 50%, 0.3); /* Semi-transparent light green */
+  border: #f0f0f0;
+}

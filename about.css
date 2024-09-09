@@ -1,0 +1,8 @@
+body {
+  background: linear-gradient(135deg, #f39c12, #f1c40f); /* Yellow to Orange Gradient */
+}
+
+header {
+ background-color: var(--primary-color);
+  color: red;
+}
