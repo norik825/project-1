@@ -10,8 +10,7 @@ div {
 
 /* Using RGB */
 p {
-  background-color: rgb(255, 0, 0); /* Red */
-}
+  background-color: aqua;
 
 /* Using RGBA */
 header {
@@ -26,5 +25,5 @@ footer {
 /* Using HSLA */
 section {
   background-color: hsla(120, 100%, 50%, 0.3); /* Semi-transparent light green */
-  border: #f0f0f0;
+  bor
 }
